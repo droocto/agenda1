@@ -1,0 +1,579 @@
+2011-12-25 23:35:41 Warning: Warning (2): pg_query() [http://php.net/function.pg-query]: Query failed: ERROR:  no existe la columna Cliente.id
+LINE 1: ..._email", "Cliente"."estado" AS "Cliente__estado", "Cliente"....
+                                                             ^ in [/var/www/proyecto_cake/cake/libs/model/datasources/dbo/dbo_postgres.php, line 167]
+2011-12-25 23:35:41 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  no existe la columna Cliente.id
+LINE 1: ..._email", "Cliente"."estado" AS "Cliente__estado", "Cliente"....
+                                                             ^</span> in [/var/www/proyecto_cake/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-12-25 23:36:25 Warning: Warning (2): pg_query() [http://php.net/function.pg-query]: Query failed: ERROR:  no existe la columna Cliente.id
+LINE 1: ..._email", "Cliente"."estado" AS "Cliente__estado", "Cliente"....
+                                                             ^ in [/var/www/proyecto_cake/cake/libs/model/datasources/dbo/dbo_postgres.php, line 167]
+2011-12-25 23:36:25 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  no existe la columna Cliente.id
+LINE 1: ..._email", "Cliente"."estado" AS "Cliente__estado", "Cliente"....
+                                                             ^</span> in [/var/www/proyecto_cake/cake/libs/model/datasources/dbo_source.php, line 684]
+2011-12-25 23:37:25 Warning: Warning (2): pg_query() [http://php.net/function.pg-query]: Query failed: ERROR:  no existe la columna Cliente.id
+LINE 1: ..._email", "Cliente"."estado" AS "Cliente__estado", "Cliente"....
+                                                             ^ in [/var/www/proyecto_cake/cake/libs/model/datasources/dbo/dbo_postgres.php, line 167]
+2011-12-25 23:37:25 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  no existe la columna Cliente.id
+LINE 1: ..._email", "Cliente"."estado" AS "Cliente__estado", "Cliente"....
+                                                             ^</span> in [/var/www/proyecto_cake/cake/libs/model/datasources/dbo_source.php, line 684]
+2012-01-17 22:35:39 Warning: Warning (2): pg_query() [http://php.net/function.pg-query]: Query failed: ERROR:  no existe la relación «citas_id_seq»
+LINE 1: SELECT currval('citas_id_seq') as max
+                       ^ in [/var/www/proyecto_cake/cake/libs/model/datasources/dbo/dbo_postgres.php, line 167]
+2012-01-17 22:35:39 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  no existe la relación «citas_id_seq»
+LINE 1: SELECT currval('citas_id_seq') as max
+                       ^</span> in [/var/www/proyecto_cake/cake/libs/model/datasources/dbo_source.php, line 684]
+2012-01-17 22:37:04 Warning: Warning (2): pg_query() [http://php.net/function.pg-query]: Query failed: ERROR:  no existe la relación «citas_id_seq»
+LINE 1: SELECT currval('citas_id_seq') as max
+                       ^ in [/var/www/proyecto_cake/cake/libs/model/datasources/dbo/dbo_postgres.php, line 167]
+2012-01-17 22:37:04 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  no existe la relación «citas_id_seq»
+LINE 1: SELECT currval('citas_id_seq') as max
+                       ^</span> in [/var/www/proyecto_cake/cake/libs/model/datasources/dbo_source.php, line 684]
+2012-01-17 22:45:12 Warning: Warning (2): pg_query() [http://php.net/function.pg-query]: Query failed: ERROR:  no existe la relación «citas_id_seq»
+LINE 1: SELECT currval('citas_id_seq') as max
+                       ^ in [/var/www/proyecto_cake/cake/libs/model/datasources/dbo/dbo_postgres.php, line 167]
+2012-01-17 22:45:12 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  no existe la relación «citas_id_seq»
+LINE 1: SELECT currval('citas_id_seq') as max
+                       ^</span> in [/var/www/proyecto_cake/cake/libs/model/datasources/dbo_source.php, line 684]
+2012-01-17 22:47:37 Warning: Warning (2): pg_query() [http://php.net/function.pg-query]: Query failed: ERROR:  el valor es demasiado largo para el tipo character(1) in [/var/www/proyecto_cake/cake/libs/model/datasources/dbo/dbo_postgres.php, line 167]
+2012-01-17 22:47:37 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  el valor es demasiado largo para el tipo character(1)</span> in [/var/www/proyecto_cake/cake/libs/model/datasources/dbo_source.php, line 684]
+2012-01-22 15:27:19 Warning: Warning (2): pg_query(): Query failed: ERROR:  llave duplicada viola restricción de unicidad «clientes_pkey» in [/var/www/proyecto_cake/cake/libs/model/datasources/dbo/dbo_postgres.php, line 167]
+2012-01-22 15:36:50 Warning: Warning (2): pg_query(): Query failed: ERROR:  llave duplicada viola restricción de unicidad «clientes_pkey» in [/var/www/proyecto_cake/cake/libs/model/datasources/dbo/dbo_postgres.php, line 167]
+2012-01-22 15:38:45 Warning: Warning (2): pg_query(): Query failed: ERROR:  llave duplicada viola restricción de unicidad «clientes_pkey» in [/var/www/proyecto_cake/cake/libs/model/datasources/dbo/dbo_postgres.php, line 167]
+2012-01-22 15:44:27 Warning: Warning (2): pg_query(): Query failed: ERROR:  llave duplicada viola restricción de unicidad «clientes_pkey» in [/var/www/proyecto_cake/cake/libs/model/datasources/dbo/dbo_postgres.php, line 167]
+2012-01-22 15:49:49 Warning: Warning (2): pg_query(): Query failed: ERROR:  llave duplicada viola restricción de unicidad «clientes_pkey» in [/var/www/proyecto_cake/cake/libs/model/datasources/dbo/dbo_postgres.php, line 167]
+2012-01-22 16:06:23 Warning: Warning (2): pg_query() [http://php.net/function.pg-query]: Query failed: ERROR:  llave duplicada viola restricción de unicidad «clientes_pkey» in [/var/www/proyecto_cake/cake/libs/model/datasources/dbo/dbo_postgres.php, line 167]
+2012-01-22 16:06:23 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  llave duplicada viola restricción de unicidad «clientes_pkey»</span> in [/var/www/proyecto_cake/cake/libs/model/datasources/dbo_source.php, line 684]
+2012-01-22 16:13:03 Warning: Warning (2): pg_query(): Query failed: ERROR:  llave duplicada viola restricción de unicidad «clientes_pkey» in [/var/www/proyecto_cake/cake/libs/model/datasources/dbo/dbo_postgres.php, line 167]
+2012-01-22 16:46:15 Warning: Warning (2): pg_query(): Query failed: ERROR:  llave duplicada viola restricción de unicidad «clientes_pkey» in [/var/www/proyecto_cake/cake/libs/model/datasources/dbo/dbo_postgres.php, line 167]
+2012-01-22 16:52:53 Warning: Warning (2): pg_query(): Query failed: ERROR:  llave duplicada viola restricción de unicidad «clientes_pkey» in [/var/www/proyecto_cake/cake/libs/model/datasources/dbo/dbo_postgres.php, line 167]
+2012-01-22 17:20:10 Warning: Warning (2): pg_query(): Query failed: ERROR:  llave duplicada viola restricción de unicidad «clientes_pkey» in [/var/www/proyecto_cake/cake/libs/model/datasources/dbo/dbo_postgres.php, line 167]
+2012-01-22 17:22:10 Error: 
+2012-01-22 17:22:27 Error: Array
+(
+    [Cliente] => Array
+        (
+            [documento] => 1234
+            [nombre] => alejo
+            [apellido] => rodas
+            [direccion] => belmonte
+            [telefono] => 345
+            [email] => arodas@sisfo.com
+            [estado] => a
+        )
+
+)
+
+2012-01-22 17:22:27 Error: 
+2012-01-22 17:23:50 Error: 
+2012-01-22 17:24:06 Error: Array
+(
+    [Cliente] => Array
+        (
+            [documento] => 4567
+            [nombre] => alejo
+            [apellido] => rodas
+            [direccion] => belmonte
+            [telefono] => 345
+            [email] => arodas@sisfo.com
+            [estado] => a
+        )
+
+)
+
+2012-01-22 17:24:06 Error: XXXXXX
+2012-01-22 17:24:07 Error: 
+2012-01-22 17:50:35 Error: 
+2012-01-22 17:50:54 Error: Array
+(
+    [Cliente] => Array
+        (
+            [documento] => 980
+            [nombre] => alejo
+            [apellido] => rodas
+            [direccion] => belmonte
+            [telefono] => 1234
+            [email] => arodas@sisfo.com
+            [estado] => a
+        )
+
+)
+
+2012-01-22 17:50:54 Error: XXXXXX
+2012-01-22 17:52:04 Error: 
+2012-01-22 17:52:12 Error: 
+2012-01-22 17:52:28 Error: Array
+(
+    [Cliente] => Array
+        (
+            [documento] => 436
+            [nombre] => alejo
+            [apellido] => rodas
+            [direccion] => belmonte
+            [telefono] => 398
+            [email] => arodas@sisfo.com
+            [estado] => a
+        )
+
+)
+
+2012-01-22 17:52:28 Error: XXXXXX
+2012-01-22 17:55:08 Error: 
+2012-01-22 17:55:10 Error: 
+2012-01-22 17:55:10 Error: 
+2012-01-22 17:55:10 Error: 
+2012-01-22 17:55:11 Error: 
+2012-01-22 17:56:15 Error: 
+2012-01-22 17:56:16 Error: 
+2012-01-22 17:56:16 Error: 
+2012-01-22 17:56:16 Error: 
+2012-01-22 17:56:54 Error: 
+2012-01-22 17:59:35 Error: 
+2012-01-22 18:01:38 Error: 
+2012-01-22 18:11:13 Error: 
+2012-01-22 18:12:13 Error: 
+2012-01-22 18:13:08 Error: 
+2012-01-22 18:13:16 Error: 
+2012-01-22 18:17:09 Error: 
+2012-01-22 18:44:34 Warning: Warning (2): pg_query(): Query failed: ERROR:  llave duplicada viola restricción de unicidad «clientes_pkey» in [/var/www/proyecto_cake/cake/libs/model/datasources/dbo/dbo_postgres.php, line 167]
+2012-01-22 18:48:13 Warning: Warning (2): pg_query(): Query failed: ERROR:  llave duplicada viola restricción de unicidad «clientes_pkey» in [/var/www/proyecto_cake/cake/libs/model/datasources/dbo/dbo_postgres.php, line 167]
+2012-01-22 19:00:17 Warning: Warning (2): pg_query(): Query failed: ERROR:  llave duplicada viola restricción de unicidad «clientes_pkey» in [/var/www/proyecto_cake/cake/libs/model/datasources/dbo/dbo_postgres.php, line 167]
+2012-01-22 19:00:20 Warning: Warning (2): pg_query(): Query failed: ERROR:  llave duplicada viola restricción de unicidad «clientes_pkey» in [/var/www/proyecto_cake/cake/libs/model/datasources/dbo/dbo_postgres.php, line 167]
+2012-04-08 18:20:52 Warning: Warning (2): Missing argument 1 for ClientesController::findClient() in [/var/www/proyecto_cake/app/controllers/clientes_controller.php, line 45]
+2012-04-08 18:20:52 Error: 
+2012-04-08 18:35:12 Error: 123
+2012-04-08 18:36:36 Error: 123
+2012-04-08 18:37:36 Error: Array
+(
+    [0] => Array
+        (
+            [Cliente] => Array
+                (
+                    [id] => 1
+                    [documento] => 123
+                    [nombre] => maria
+                    [apellido] => gomez
+                    [telefono] => 321654
+                    [direccion] => providencia
+                    [email] => maria@gmail.com
+                    [estado] => 
+                )
+
+        )
+
+)
+
+2012-04-08 18:51:03 Error: {"Cliente":{"id":"1","documento":"123","nombre":"maria","apellido":"gomez","telefono":"321654","direccion":"providencia","email":"maria@gmail.com","estado":null}}
+2012-04-08 18:53:27 Error: {"Cliente":{"id":"1","documento":"123","nombre":"maria","apellido":"gomez","telefono":"321654","direccion":"providencia","email":"maria@gmail.com","estado":null}}
+2012-04-08 18:54:32 Error: {"Cliente":{"id":"1","documento":"123","nombre":"maria","apellido":"gomez","telefono":"321654","direccion":"providencia","email":"maria@gmail.com","estado":null}}
+2012-04-08 18:55:18 Error: {"Cliente":{"id":"1","documento":"123","nombre":"maria","apellido":"gomez","telefono":"321654","direccion":"providencia","email":"maria@gmail.com","estado":null}}
+2012-04-08 18:55:40 Error: {"Cliente":{"id":"1","documento":"123","nombre":"maria","apellido":"gomez","telefono":"321654","direccion":"providencia","email":"maria@gmail.com","estado":null}}
+2012-04-08 18:56:13 Error: {"Cliente":{"id":"1","documento":"123","nombre":"maria","apellido":"gomez","telefono":"321654","direccion":"providencia","email":"maria@gmail.com","estado":null}}
+2012-04-08 18:56:36 Error: {"Cliente":{"id":"1","documento":"123","nombre":"maria","apellido":"gomez","telefono":"321654","direccion":"providencia","email":"maria@gmail.com","estado":null}}
+2012-04-08 18:59:07 Error: {"Cliente":{"id":"1","documento":"123","nombre":"maria","apellido":"gomez","telefono":"321654","direccion":"providencia","email":"maria@gmail.com","estado":null}}
+2012-04-08 19:00:08 Error: {"Cliente":{"id":"1","documento":"123","nombre":"maria","apellido":"gomez","telefono":"321654","direccion":"providencia","email":"maria@gmail.com","estado":null}}
+2012-04-08 19:00:36 Error: {"Cliente":{"id":"1","documento":"123","nombre":"maria","apellido":"gomez","telefono":"321654","direccion":"providencia","email":"maria@gmail.com","estado":null}}
+2012-04-08 19:02:45 Error: null
+2012-04-08 19:02:56 Error: null
+2012-04-08 19:02:59 Error: null
+2012-04-08 19:03:55 Error: null
+2012-04-08 19:03:59 Error: null
+2012-04-08 19:04:12 Error: {"Cliente":{"id":"1","documento":"123","nombre":"maria","apellido":"gomez","telefono":"321654","direccion":"providencia","email":"maria@gmail.com","estado":null}}
+2012-04-08 19:17:49 Error: [{"Cliente":{"id":"1","documento":"123","nombre":"maria","apellido":"gomez","telefono":"321654","direccion":"providencia","email":"maria@gmail.com","estado":null}}]
+2012-04-08 19:27:57 Error: 
+2012-04-08 19:27:57 Error: {"Cliente":{"id":"1","documento":"123","nombre":"maria","apellido":"gomez","telefono":"321654","direccion":"providencia","email":"maria@gmail.com","estado":null}}
+2012-04-08 19:28:27 Error: Array
+(
+    [Cliente] => Array
+        (
+            [id] => 1
+            [documento] => 123
+            [nombre] => maria
+            [apellido] => gomez
+            [telefono] => 321654
+            [direccion] => providencia
+            [email] => maria@gmail.com
+            [estado] => 
+        )
+
+)
+
+2012-04-08 19:29:49 Error: Array
+(
+    [0] => Array
+        (
+            [Cliente] => Array
+                (
+                    [id] => 1
+                    [documento] => 123
+                    [nombre] => maria
+                    [apellido] => gomez
+                    [telefono] => 321654
+                    [direccion] => providencia
+                    [email] => maria@gmail.com
+                    [estado] => 
+                )
+
+        )
+
+)
+
+2012-04-08 19:34:26 Error: Array
+(
+    [id] => 1
+    [documento] => 123
+    [nombre] => maria
+    [apellido] => gomez
+    [telefono] => 321654
+    [direccion] => providencia
+    [email] => maria@gmail.com
+    [estado] => 
+)
+
+2012-04-08 19:34:33 Error: 
+2012-04-08 19:35:04 Error: 
+2012-04-08 19:35:10 Error: 
+2012-04-08 19:35:15 Error: Array
+(
+    [Cliente] => Array
+        (
+            [id] => 1
+            [documento] => 123
+            [nombre] => maria
+            [apellido] => gomez
+            [telefono] => 321654
+            [direccion] => providencia
+            [email] => maria@gmail.com
+            [estado] => 
+        )
+
+)
+
+2012-04-08 19:35:39 Error: Array
+(
+    [id] => 1
+    [documento] => 123
+    [nombre] => maria
+    [apellido] => gomez
+    [telefono] => 321654
+    [direccion] => providencia
+    [email] => maria@gmail.com
+    [estado] => 
+)
+
+2012-04-08 19:36:39 Error: {"id":"1","documento":"123","nombre":"maria","apellido":"gomez","telefono":"321654","direccion":"providencia","email":"maria@gmail.com","estado":null}
+2012-04-08 19:36:49 Error: {"id":"1","documento":"123","nombre":"maria","apellido":"gomez","telefono":"321654","direccion":"providencia","email":"maria@gmail.com","estado":null}
+2012-04-08 19:40:13 Error: {"id":"1","documento":"123","nombre":"maria","apellido":"gomez","telefono":"321654","direccion":"providencia","email":"maria@gmail.com","estado":null}
+2012-04-08 19:41:02 Error: {"id":"1","documento":"123","nombre":"maria","apellido":"gomez","telefono":"321654","direccion":"providencia","email":"maria@gmail.com","estado":null}
+2012-04-08 19:42:39 Error: {"id":"1","documento":"123","nombre":"maria","apellido":"gomez","telefono":"321654","direccion":"providencia","email":"maria@gmail.com","estado":null}
+2012-04-08 19:58:10 Error: {"id":"1","documento":"123","nombre":"maria","apellido":"gomez","telefono":"321654","direccion":"providencia","email":"maria@gmail.com","estado":null}
+2012-04-08 19:58:35 Error: {"id":"1","documento":"123","nombre":"maria","apellido":"gomez","telefono":"321654","direccion":"providencia","email":"maria@gmail.com","estado":null}
+2012-04-08 20:06:46 Error: {"id":"1","documento":"123","nombre":"maria","apellido":"gomez","telefono":"321654","direccion":"providencia","email":"maria@gmail.com","estado":null}
+2012-04-08 20:12:19 Error: {"id":"1","documento":"123","nombre":"maria","apellido":"gomez","telefono":"321654","direccion":"providencia","email":"maria@gmail.com","estado":null}
+2012-04-08 20:17:21 Error: {"id":"1","documento":"123","nombre":"maria","apellido":"gomez","telefono":"321654","direccion":"providencia","email":"maria@gmail.com","estado":null}
+2012-04-08 20:18:06 Error: {"id":"1","documento":"123","nombre":"maria","apellido":"gomez","telefono":"321654","direccion":"providencia","email":"maria@gmail.com","estado":null}
+2012-04-28 21:24:15 Warning: Warning (2): Missing argument 1 for ClientesController::findClient() in [/var/www/proyecto_cake/app/controllers/clientes_controller.php, line 46]
+2012-05-12 23:12:25 Warning: Warning (2): Invalid argument supplied for foreach() in [/var/www/proyecto_cake/app/views/tipo_tratamientos/find_tratamiento.ctp, line 5]
+2012-05-12 23:16:19 Warning: Warning (2): Invalid argument supplied for foreach() in [/var/www/proyecto_cake/app/views/tipo_tratamientos/find_tratamiento.ctp, line 5]
+2012-05-12 23:17:26 Warning: Warning (2): Invalid argument supplied for foreach() in [/var/www/proyecto_cake/app/views/tipo_tratamientos/find_tratamiento.ctp, line 5]
+2012-05-13 00:17:07 Error: TRATAMIENTOS
+2012-05-13 00:17:07 Error: Array
+(
+    [1] => Limpieza cutis
+    [2] => Limpieza pies
+)
+
+2012-05-13 00:17:51 Error: TRATAMIENTOS
+2012-05-13 00:17:51 Error: Array
+(
+    [1] => Limpieza cutis
+    [2] => Limpieza pies
+)
+
+2012-05-13 00:18:00 Error: TRATAMIENTOS
+2012-05-13 00:18:00 Error: Array
+(
+)
+
+2012-05-13 00:18:52 Error: TRATAMIENTOS
+2012-05-13 00:18:52 Error: Array
+(
+)
+
+2012-05-13 00:19:35 Error: TRATAMIENTOS
+2012-05-13 00:19:35 Error: Array
+(
+)
+
+2012-05-13 00:22:58 Error: TRATAMIENTOS
+2012-05-13 00:22:58 Error: Array
+(
+    [1] => Limpieza cutis
+    [2] => Limpieza pies
+)
+
+2012-05-13 00:24:19 Error: TRATAMIENTOS
+2012-05-13 00:24:19 Error: Array
+(
+    [3] => Corte normal
+    [4] => Evento especial
+)
+
+2012-05-13 00:25:47 Error: TRATAMIENTOS
+2012-05-13 00:25:47 Error: Array
+(
+    [1] => Limpieza cutis
+    [2] => Limpieza pies
+)
+
+2012-05-13 07:20:25 Error: TIPO TRATAMIENTOS
+2012-05-13 07:20:25 Error: 
+2012-05-13 07:21:50 Error: TIPO TRATAMIENTOS
+2012-05-13 07:21:50 Error: Array
+(
+    [TipoTratamiento] => Array
+        (
+            [nombre] => Blanqueamiento dental
+            [nombre_tratamiento_1] => Primera Cita Higienene
+            [descripcion_tratamiento_1] => Se hace higiene preventiva
+            [nombre_tratamiento_2] => Primera Cita Diagnostico General
+            [descripcion_tratamiento_2] => Se realizar diagnositico general
+        )
+
+)
+
+2012-05-13 07:23:41 Error: TIPO TRATAMIENTOS
+2012-05-13 07:23:41 Error: 
+2012-05-13 07:23:57 Error: TIPO TRATAMIENTOS
+2012-05-13 07:23:57 Error: 
+2012-05-13 07:23:57 Error: TIPO TRATAMIENTOS
+2012-05-13 07:23:57 Error: 
+2012-05-13 07:23:57 Error: TIPO TRATAMIENTOS
+2012-05-13 07:23:57 Error: 
+2012-05-13 07:23:58 Error: TIPO TRATAMIENTOS
+2012-05-13 07:23:58 Error: 
+2012-05-13 07:23:58 Error: TIPO TRATAMIENTOS
+2012-05-13 07:23:58 Error: 
+2012-05-13 07:23:58 Error: TIPO TRATAMIENTOS
+2012-05-13 07:23:58 Error: 
+2012-05-13 07:23:58 Error: TIPO TRATAMIENTOS
+2012-05-13 07:23:58 Error: 
+2012-05-13 07:23:58 Error: TIPO TRATAMIENTOS
+2012-05-13 07:23:58 Error: 
+2012-05-13 07:23:58 Error: TIPO TRATAMIENTOS
+2012-05-13 07:23:58 Error: 
+2012-05-13 07:23:58 Error: TIPO TRATAMIENTOS
+2012-05-13 07:23:58 Error: 
+2012-05-13 07:23:59 Error: TIPO TRATAMIENTOS
+2012-05-13 07:23:59 Error: 
+2012-05-13 07:23:59 Error: TIPO TRATAMIENTOS
+2012-05-13 07:23:59 Error: 
+2012-05-13 07:23:59 Error: TIPO TRATAMIENTOS
+2012-05-13 07:23:59 Error: 
+2012-05-13 07:23:59 Error: TIPO TRATAMIENTOS
+2012-05-13 07:23:59 Error: 
+2012-05-13 07:23:59 Error: TIPO TRATAMIENTOS
+2012-05-13 07:23:59 Error: 
+2012-05-13 07:23:59 Error: TIPO TRATAMIENTOS
+2012-05-13 07:23:59 Error: 
+2012-05-13 07:23:59 Error: TIPO TRATAMIENTOS
+2012-05-13 07:23:59 Error: 
+2012-05-13 07:23:59 Error: TIPO TRATAMIENTOS
+2012-05-13 07:23:59 Error: 
+2012-05-13 07:23:59 Error: TIPO TRATAMIENTOS
+2012-05-13 07:23:59 Error: 
+2012-05-13 07:23:59 Error: TIPO TRATAMIENTOS
+2012-05-13 07:23:59 Error: 
+2012-05-13 07:23:59 Error: TIPO TRATAMIENTOS
+2012-05-13 07:23:59 Error: 
+2012-05-13 07:23:59 Error: TIPO TRATAMIENTOS
+2012-05-13 07:23:59 Error: 
+2012-05-13 07:23:59 Error: TIPO TRATAMIENTOS
+2012-05-13 07:23:59 Error: 
+2012-05-13 07:24:00 Error: TIPO TRATAMIENTOS
+2012-05-13 07:24:00 Error: 
+2012-05-13 07:24:00 Error: TIPO TRATAMIENTOS
+2012-05-13 07:24:00 Error: 
+2012-05-13 07:24:00 Error: TIPO TRATAMIENTOS
+2012-05-13 07:24:00 Error: 
+2012-05-13 07:24:00 Error: TIPO TRATAMIENTOS
+2012-05-13 07:24:00 Error: 
+2012-05-13 07:24:00 Error: TIPO TRATAMIENTOS
+2012-05-13 07:24:00 Error: 
+2012-05-13 07:24:00 Error: TIPO TRATAMIENTOS
+2012-05-13 07:24:00 Error: 
+2012-05-13 07:24:00 Error: TIPO TRATAMIENTOS
+2012-05-13 07:24:00 Error: 
+2012-05-13 07:24:00 Error: TIPO TRATAMIENTOS
+2012-05-13 07:24:00 Error: 
+2012-05-13 07:24:00 Error: TIPO TRATAMIENTOS
+2012-05-13 07:24:00 Error: 
+2012-05-13 07:24:00 Error: TIPO TRATAMIENTOS
+2012-05-13 07:24:00 Error: 
+2012-05-13 07:24:00 Error: TIPO TRATAMIENTOS
+2012-05-13 07:24:00 Error: 
+2012-05-13 07:24:00 Error: TIPO TRATAMIENTOS
+2012-05-13 07:24:00 Error: 
+2012-05-13 07:24:00 Error: TIPO TRATAMIENTOS
+2012-05-13 07:24:00 Error: 
+2012-05-13 07:24:00 Error: TIPO TRATAMIENTOS
+2012-05-13 07:24:00 Error: 
+2012-05-13 07:24:00 Error: TIPO TRATAMIENTOS
+2012-05-13 07:24:00 Error: 
+2012-05-13 07:24:00 Error: TIPO TRATAMIENTOS
+2012-05-13 07:24:00 Error: 
+2012-05-13 07:24:00 Error: TIPO TRATAMIENTOS
+2012-05-13 07:24:00 Error: 
+2012-05-13 07:24:00 Error: TIPO TRATAMIENTOS
+2012-05-13 07:24:00 Error: 
+2012-05-13 07:24:01 Error: TIPO TRATAMIENTOS
+2012-05-13 07:24:01 Error: 
+2012-05-13 07:24:01 Error: TIPO TRATAMIENTOS
+2012-05-13 07:24:01 Error: 
+2012-05-13 07:24:03 Error: TIPO TRATAMIENTOS
+2012-05-13 07:24:03 Error: 
+2012-05-13 07:24:03 Error: TIPO TRATAMIENTOS
+2012-05-13 07:24:03 Error: 
+2012-05-13 07:24:03 Error: TIPO TRATAMIENTOS
+2012-05-13 07:24:03 Error: 
+2012-05-13 07:24:03 Error: TIPO TRATAMIENTOS
+2012-05-13 07:24:03 Error: 
+2012-05-13 07:24:03 Error: TIPO TRATAMIENTOS
+2012-05-13 07:24:03 Error: 
+2012-05-13 07:24:04 Error: TIPO TRATAMIENTOS
+2012-05-13 07:24:04 Error: 
+2012-05-13 07:24:04 Error: TIPO TRATAMIENTOS
+2012-05-13 07:24:04 Error: 
+2012-05-13 07:24:04 Error: TIPO TRATAMIENTOS
+2012-05-13 07:24:04 Error: 
+2012-05-13 07:24:04 Error: TIPO TRATAMIENTOS
+2012-05-13 07:24:04 Error: 
+2012-05-13 07:24:04 Error: TIPO TRATAMIENTOS
+2012-05-13 07:24:04 Error: 
+2012-05-13 07:24:04 Error: TIPO TRATAMIENTOS
+2012-05-13 07:24:04 Error: 
+2012-05-13 07:24:04 Error: TIPO TRATAMIENTOS
+2012-05-13 07:24:04 Error: 
+2012-05-13 07:24:05 Error: TIPO TRATAMIENTOS
+2012-05-13 07:24:05 Error: 
+2012-05-13 07:24:05 Error: TIPO TRATAMIENTOS
+2012-05-13 07:24:05 Error: 
+2012-05-13 07:24:05 Error: TIPO TRATAMIENTOS
+2012-05-13 07:24:05 Error: 
+2012-05-13 07:24:05 Error: TIPO TRATAMIENTOS
+2012-05-13 07:24:05 Error: 
+2012-05-13 07:24:05 Error: TIPO TRATAMIENTOS
+2012-05-13 07:24:05 Error: 
+2012-05-13 07:24:05 Error: TIPO TRATAMIENTOS
+2012-05-13 07:24:05 Error: 
+2012-05-13 07:24:05 Error: TIPO TRATAMIENTOS
+2012-05-13 07:24:05 Error: 
+2012-05-13 07:24:05 Error: TIPO TRATAMIENTOS
+2012-05-13 07:24:05 Error: 
+2012-05-13 07:24:05 Error: TIPO TRATAMIENTOS
+2012-05-13 07:24:05 Error: 
+2012-05-13 07:24:05 Error: TIPO TRATAMIENTOS
+2012-05-13 07:24:05 Error: 
+2012-05-13 07:24:05 Error: TIPO TRATAMIENTOS
+2012-05-13 07:24:05 Error: 
+2012-05-13 07:24:05 Error: TIPO TRATAMIENTOS
+2012-05-13 07:24:05 Error: 
+2012-05-13 07:24:05 Error: TIPO TRATAMIENTOS
+2012-05-13 07:24:05 Error: 
+2012-05-13 07:24:06 Error: TIPO TRATAMIENTOS
+2012-05-13 07:24:06 Error: 
+2012-05-13 07:24:06 Error: TIPO TRATAMIENTOS
+2012-05-13 07:24:06 Error: 
+2012-05-13 07:24:06 Error: TIPO TRATAMIENTOS
+2012-05-13 07:24:06 Error: 
+2012-05-13 07:24:06 Error: TIPO TRATAMIENTOS
+2012-05-13 07:24:06 Error: 
+2012-05-13 07:24:06 Error: TIPO TRATAMIENTOS
+2012-05-13 07:24:06 Error: 
+2012-05-13 07:24:06 Error: TIPO TRATAMIENTOS
+2012-05-13 07:24:06 Error: 
+2012-05-13 07:24:06 Error: TIPO TRATAMIENTOS
+2012-05-13 07:24:06 Error: 
+2012-05-13 07:24:06 Error: TIPO TRATAMIENTOS
+2012-05-13 07:24:06 Error: 
+2012-05-13 07:24:07 Error: TIPO TRATAMIENTOS
+2012-05-13 07:24:07 Error: 
+2012-05-13 07:24:07 Error: TIPO TRATAMIENTOS
+2012-05-13 07:24:07 Error: 
+2012-05-13 07:24:07 Error: TIPO TRATAMIENTOS
+2012-05-13 07:24:07 Error: 
+2012-05-13 07:24:07 Error: TIPO TRATAMIENTOS
+2012-05-13 07:24:07 Error: 
+2012-05-13 07:24:07 Error: TIPO TRATAMIENTOS
+2012-05-13 07:24:07 Error: 
+2012-05-13 07:24:07 Error: TIPO TRATAMIENTOS
+2012-05-13 07:24:07 Error: 
+2012-05-13 07:24:07 Error: TIPO TRATAMIENTOS
+2012-05-13 07:24:07 Error: 
+2012-05-13 07:24:07 Error: TIPO TRATAMIENTOS
+2012-05-13 07:24:07 Error: 
+2012-05-13 07:24:08 Error: TIPO TRATAMIENTOS
+2012-05-13 07:24:08 Error: 
+2012-05-13 07:24:21 Error: TIPO TRATAMIENTOS
+2012-05-13 07:24:21 Error: 
+2012-05-13 07:25:02 Error: TIPO TRATAMIENTOS
+2012-05-13 07:25:02 Error: 
+2012-05-13 07:26:14 Error: TIPO TRATAMIENTOS
+2012-05-13 07:26:14 Error: Array
+(
+    [TipoTratamiento] => Array
+        (
+            [nombre] => Blanqueamiento dental
+            [nombre_tratamiento_1] => Primera Cita Higienene
+            [descripcion_tratamiento_1] => Primera Cita Higienene preventiva
+            [nombre_tratamiento_2] => Primera Cita Diagnostico General
+            [descripcion_tratamiento_2] => Primera Cita Diagnostico General
+            [nombre_tratamiento_3] => Primera Cita Diagnostico General
+            [descripcion_tratamiento_3] => Primera Cita Diagnostico General
+        )
+
+)
+
+2012-05-13 07:26:14 Error: TIPO TRATAMIENTOS
+2012-05-13 07:26:14 Error: 
+2012-05-13 07:29:09 Error: TIPO TRATAMIENTOS
+2012-05-13 07:29:09 Error: 
+2012-05-13 07:31:11 Error: TIPO TRATAMIENTOS
+2012-05-13 07:31:11 Error: 
+2012-05-13 07:32:15 Error: TIPO TRATAMIENTOS
+2012-05-13 07:32:15 Error: 
+2012-05-13 07:32:18 Error: TIPO TRATAMIENTOS
+2012-05-13 07:32:18 Error: Array
+(
+    [TipoTratamiento] => Array
+        (
+            [nombre] => Blanqueamiento dental
+        )
+
+)
+
+2012-05-13 07:32:18 Error: TIPO TRATAMIENTOS
+2012-05-13 07:32:18 Error: 
+2012-05-13 07:36:02 Error: TIPO TRATAMIENTOS
+2012-05-13 07:36:02 Error: 
+2012-05-13 07:36:19 Error: TIPO TRATAMIENTOS
+2012-05-13 07:36:19 Error: 
+2012-05-13 07:38:14 Error: TIPO TRATAMIENTOS
+2012-05-13 07:38:14 Error: 
+2012-05-13 07:41:45 Error: TIPO TRATAMIENTOS
+2012-05-13 07:41:45 Error: 
+2012-05-13 07:42:00 Error: TIPO TRATAMIENTOS
+2012-05-13 07:42:00 Error: Array
+(
+    [TipoTratamiento] => Array
+        (
+            [nombre] => Blanqueamiento dental
+            [nombre_tratamiento_1] => Primera Cita Higienene
+            [descripcion_tratamiento_1] => Primera Cita Higienene
+        )
+
+)
+
+2012-05-13 07:42:01 Error: TIPO TRATAMIENTOS
+2012-05-13 07:42:01 Error: 
+2012-05-13 07:44:18 Error: TIPO TRATAMIENTOS
+2012-05-13 07:44:18 Error: 
