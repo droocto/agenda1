@@ -18,5 +18,9 @@ class AmbientesController extends AppController {
         $this->layout = 'default';
     }
 
+    /**
+    * proximas funciones
+    */
+
 }
 ?>
