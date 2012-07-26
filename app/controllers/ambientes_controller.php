@@ -22,5 +22,9 @@ class AmbientesController extends AppController {
     * proximas funciones
     */
 
+     /*
+    * Para segundo ticket
+    */
+
 }
 ?>
